@@ -45,9 +45,6 @@ class Program
 
 <h3 align="left">Connect with me:</h3>
 <p class="tools" align="left">
-<a href="https://zmmmdf.xyz" target="_blank">
-  <img align="center" src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1680096853/Logo/logo-xl-ico_qzbf7d.ico" margin="20" height="30" width="35" alt="Aykhan-Ahmadzada" />
-</a>
 <a href="https://leetcode.com/zmmmdf/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drongo-x"                  height="30" width="40" />
 </a>
@@ -57,7 +54,7 @@ class Program
 <a href="https://linkedin.com/in/zmmmdf" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aykhan-                Ahmadzada" height="30" width="40" />
 </a>
-<a href="https://lichess.org/@/zmmmdf" target="_blank">
+<a href="https://lichess.org/@/zmmmdv" target="_blank">
     <img align="center" src="https://media.aykhan.net/assets/icons/lichess.png" alt="Lichess" height="40" width="40" />
 </a>
 </p>
