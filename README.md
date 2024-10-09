@@ -76,4 +76,4 @@ class Program
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=zmmmdf&label=Profile%20views&color=3EB810&style=flat" alt="drongo-j" />
 </p>
-- 👨‍💻 Visit Website [zmmmdf.xyz](https://zmmmdf.xyz)
+- 👨‍💻 Visit Website [zmmmdf.xyz](https://portfolio-79a.pages.dev/)
