@@ -16,11 +16,10 @@ class SoftwareEngineer
 
     public void Hi()
     {
-        // Using string interpolation to print variables
         Console.WriteLine($"{Fullname} | {Nickname}");
-        Console.WriteLine(Status);  // Corrected from 'status' to 'Status'
+        Console.WriteLine(Status);
         Console.WriteLine(Email);
-        Console.WriteLine(LinkedIn); // Corrected from 'Linkedin' to 'LinkedIn'
+        Console.WriteLine(LinkedIn);
         Console.WriteLine(Phone);
     }
 }
