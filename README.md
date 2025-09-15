@@ -11,8 +11,7 @@ class SoftwareEngineer
     public string Email { get; set; } = "ziyamm08@gmail.com";
     public string LinkedIn { get; set; } = "linkedin.com/in/mziya/";
     public string[] ProgrammingLanguages { get; set; } = { "C#", "C++", "Python", "PHP" };
-    public string[] SpokenLanguages { get; set; } = { "Azerbaijani", "English", "Turkish" };
-    public string Phone { get; set; } = "+994 010 515 05 24";
+    public string[] SpokenLanguages { get; set; } = { "English", "Azerbaijani", "Turkish" };
 
     public void Hi()
     {
