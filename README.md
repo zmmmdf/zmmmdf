@@ -10,7 +10,7 @@ class SoftwareEngineer
     public string Status { get; set; } = "Learning to code";
     public string Email { get; set; } = "ziyamm08@gmail.com";
     public string LinkedIn { get; set; } = "linkedin.com/in/mziya/";
-    public string[] ProgrammingLanguages { get; set; } = { "C#", "C++", "Python", "PHP" };
+    public string[] ProgrammingLanguages { get; set; } = { "C#", "C++", "Python", "TypeScript", "Haskell" };
     public string[] SpokenLanguages { get; set; } = { "English", "Azerbaijani", "Turkish" };
 
     public void Hi()
